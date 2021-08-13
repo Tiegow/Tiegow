@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/Tiegow">
   <img width="490em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiegow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="470em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiegow&layout=compact&langs_count=5&theme=dark"/>
+  <img width="490em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiegow&layout=compact&langs_count=5&theme=dark"/>
 </div>
 
 	
