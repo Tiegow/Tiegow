@@ -1,7 +1,7 @@
 # Olá, sou Tiego! Bem vindo(a) ao meu perfil no Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img src="banner.gif"  />
+  <img src="banner.png"  />
 </div>
 
 <h2 align="center">Sobre mim</h2>
